@@ -8,7 +8,7 @@ export const Message = ({ from, message: { text, time } }: MessageProps) => {
           <i className="fa fa-circle online"></i>
           {from.name}
         </span>
-        <span className="message-data-time">{time}</span> &nbsp; &nbsp;
+        <span className="message-data-time">{time}</span>
       </div>
       <div className="message my-message">{text}</div>
     </li>
