@@ -2,7 +2,7 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5ht9f2j0d0yy9dnj?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-props-films)
+[![Build status](https://ci.appveyor.com/api/projects/status/p36w9ng7g4b2gh3o?svg=true)](https://ci.appveyor.com/project/Liaksej/ra-props-chat)
 
 
 https://liaksej.github.io/ra-props-chat/
